@@ -20,19 +20,22 @@ It provides real-time insights into pollution levels across multiple states and 
 📊 Dashboard Highlights
 
 🔹 Real-Time Monitoring
-Current AQI: 67.63
-Maximum AQI Recorded: 500
-Active Monitoring Stations: 495
-Dominant Pollutant: PM2.5
+
+1. Current AQI: 67.63
+2. Maximum AQI Recorded: 500
+3. Active Monitoring Stations: 495
+4. Dominant Pollutant: PM2.5
+   
 🔹 Pollution Analysis
 State-wise pollution comparison
 Pollutant contribution breakdown
 Average pollutant levels
+
 🔹 Geographical Insights
 Monitoring density map
 Coverage: 30 States | 262 Cities
-🔹 Risk Identification
 
+🔹 Risk Identification
 Top High-Risk Cities:
 Noida
 Nandesari
