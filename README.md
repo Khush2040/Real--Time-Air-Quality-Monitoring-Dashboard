@@ -10,6 +10,7 @@ This project is an interactive air quality monitoring and risk analysis dashboar
 It provides real-time insights into pollution levels across multiple states and cities, along with forecast-based risk analysis to identify high-risk regions and pollutants.
 
 🎯 Key Objectives
+
 1. Monitor Air Quality Index (AQI) across regions
 2. Identify high-risk cities and states
 3. Analyze dominant pollutants (PM2.5, PM10, etc.)
@@ -17,6 +18,7 @@ It provides real-time insights into pollution levels across multiple states and 
 5. Support environmental decision-making
 
 📊 Dashboard Highlights
+
 🔹 Real-Time Monitoring
 Current AQI: 67.63
 Maximum AQI Recorded: 500
